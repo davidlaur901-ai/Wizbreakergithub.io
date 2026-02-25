@@ -1,7 +1,7 @@
 # my learning Goals
-## natural language processing 
+### natural language processing 
 ### learning Architecture that powers model
-#### promote Engineering &fine tuning 
+### promote Engineering &fine tuning 
 
 ## test formatting 
 **im David laur** *currently learning AI* ~~not as a hobby~~ `but a passion`
