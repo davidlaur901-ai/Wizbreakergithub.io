@@ -15,7 +15,7 @@ https://davidlaur901@gmail.com
 - AI Ethics and Governance
 - 
 ## table 
-- # TOOL #.   #PURPOSE S.                    
+- ## TOOL   PURPOSE S.                    
 chatGPT.     best for complex reasoning
 GEMINI       feature massive context windows
 CLAUDIA      superior coding
