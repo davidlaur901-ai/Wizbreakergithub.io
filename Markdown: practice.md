@@ -17,7 +17,9 @@ https://davidlaur901@gmail.com
 ## table 
 - ## TOOL   PURPOSE S.                    
 chatGPT.     best for complex reasoning
+
 GEMINI       feature massive context windows
+
 CLAUDIA      superior coding
 
 ## task list 
