@@ -11,7 +11,7 @@ https://davidlaur901@gmail.com
 
 ## list
 - prompt Engineering & interactive design 
-- Data literacy & hygiene 
+       - Data literacy & hygiene 
 - AI Ethics and Governance
 - 
 ## table 
